@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Preview it at [https://stupefied-clarke-bfe66a.netlify.app](https://stupefied-clarke-bfe66a.netlify.app).
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
